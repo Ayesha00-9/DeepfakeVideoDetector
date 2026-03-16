@@ -1,0 +1,11 @@
+venv/
+dataset/
+data/
+models/
+*.mp4
+*.pth
+*.pt
+*.h5
+__pycache__/
+model/
+*.pth
